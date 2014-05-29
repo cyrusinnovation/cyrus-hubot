@@ -25,7 +25,7 @@
     "invalid.coffee",
     "isup.coffe",
     "keep-alive.coffee",
-    "redis-brain.coffee", 
+    "pg-brain.coffee",
     "shipit.coffee",
     "xkcd.coffee"
 ]
