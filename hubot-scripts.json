@@ -32,7 +32,7 @@
     "isup.coffe",
     "jokels.coffee",
     "keep-alive.coffee",
-    "redis-brain.coffee", 
+    "pg-brain.coffee",
     "shipit.coffee",
     "xkcd.coffee"
 ]

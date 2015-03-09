@@ -26,7 +26,8 @@
     "hubot-slack": "^2.1.0",
     "cheerio": "^0.16.0",
     "htmlparser": "^1.7.7",
-    "soupselect": "^0.2.0"
+    "soupselect": "^0.2.0",
+    "pg": "^3.2.0"
   },
   "engines": {
     "node": ">= 0.8.x",
