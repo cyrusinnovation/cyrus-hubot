@@ -22,6 +22,7 @@
     "geocodeme.coffee",
     "goodbad.coffee",
     "grocery-list.coffee",
+    "hackernews.coffee",
     "harvest.coffee",
     "hashing.coffee",
     "haskell.coffee",
